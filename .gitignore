@@ -1,3 +1,4 @@
+.gitignore
 bin/
 obj/
 Test.v12.suo
